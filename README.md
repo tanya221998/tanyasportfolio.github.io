@@ -1,2 +1,2 @@
 # tanyasportfolio.github.io
-This portfolio contains all my projects that I have worked on so far in my career.
+A portfolio documenting my work in analytics, product development, business intelligence, and systems thinking across research, education, compliance, and higher education.
